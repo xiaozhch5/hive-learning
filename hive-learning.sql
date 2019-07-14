@@ -3,8 +3,7 @@
  * warming:
  * Hive-on-MR is deprecated in Hive 2 and may not be available in the future versions. 
  * Consider using a different execution engine (i.e. spark, tez) or using Hive 1.X releases.
- * hive-on-MR真的好慢啊（小声bb
- ）
+ * hive-on-MR真的好慢啊（小声bb）
  * @author zhchxiao
  * @date 2019/7/13
  ***************************************/
